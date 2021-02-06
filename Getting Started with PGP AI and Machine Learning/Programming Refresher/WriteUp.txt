@@ -1,0 +1,16 @@
+
+1. With online material I just tried to understand the problem statement
+	a. Create 4 classes: Bank, Customer, Account, SavigsAccount
+	b. In which Bank super class (as per my understanding)
+	c. Account inherit's Bank
+	d. SavigsAccount inherit's Account
+	e. And Customer is a solo class, whose type obj will be inside Account class
+	f. Create a new class (no namme mention), so I choose as NewUser
+	   Which basically accepts iputs from user, which will be used basically for creating new account.
+	   
+2. With above information and there was comments to use parameterized constructor and use super
+3. I just started and added some flavour on while logic to ask get input option from user for performing transaction.
+
+
+I just referred online self learning material completely to complete this task as per my understanding on the problem statement. And I didn't felt need of browsing.
+	

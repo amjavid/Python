@@ -1,0 +1,204 @@
+PS C:\Workspace\PG_AI_ML\Python_Pgms\26_01\HelloWorld> py .\HelloWorld.py
+Enter your e-mail address:javid.ece.9@gmail.com
+Enter your name:Mohammed Javid
+Enter your address:Colony, Madurai
+Enter your contact details (i.e your phone number):+91-9659959479
+
+
+CustomerID = javid.ece.9@gmail.com
+
+custname = Mohammed Javid
+
+address = Colony, Madurai
+
+contactdetails = +91-9659959479
+
+IFSC_Code = IDBIK0092K
+
+bankname = IDBI Bank
+
+branchname = Bypass Road
+
+loc = Madurai
+
+
+
+Would you like to do transaction? press (0/1):(No/Yes)1
+Happy to serve you :), please selct option from below
+1.Deposit
+2.Withdraw
+3.Check Balance
+option:3
+
+
+ Your balance is 0
+
+
+
+Would you like to do transaction? press (0/1):(No/Yes)1
+Happy to serve you :), please selct option from below
+1.Deposit
+2.Withdraw
+3.Check Balance
+option:2
+Please enter the amount to withdraw:1000
+
+You have low balance Rs:0/- in your account
+
+
+
+Would you like to do transaction? press (0/1):(No/Yes)1
+Happy to serve you :), please selct option from below
+1.Deposit
+2.Withdraw
+3.Check Balance
+option:1
+Please enter the amount to deposit:2000
+
+Deposit Success, your Balance is 2000/-
+
+
+
+Would you like to do transaction? press (0/1):(No/Yes)1
+Happy to serve you :), please selct option from below
+1.Deposit
+2.Withdraw
+3.Check Balance
+option:3
+
+
+ Your balance is 2000
+
+
+
+Would you like to do transaction? press (0/1):(No/Yes)1
+Happy to serve you :), please selct option from below
+1.Deposit
+2.Withdraw
+3.Check Balance
+option:2
+Please enter the amount to withdraw:2000
+
+You should leave minimum balance of Rs:500/- in your account.
+Please check account banalnce to withdraw remaining amount.
+
+
+
+Would you like to do transaction? press (0/1):(No/Yes)1
+Happy to serve you :), please selct option from below
+1.Deposit
+2.Withdraw
+3.Check Balance
+option:2
+Please enter the amount to withdraw:1000
+
+
+Withdrawl of Rs:1000/- is success
+
+Your Balance is 1000
+
+
+
+Would you like to do transaction? press (0/1):(No/Yes)1
+Happy to serve you :), please selct option from below
+1.Deposit
+2.Withdraw
+3.Check Balance
+option:2
+Please enter the amount to withdraw:500
+
+
+Withdrawl of Rs:500/- is success
+
+Your Balance is 500
+
+
+
+Would you like to do transaction? press (0/1):(No/Yes)1
+Happy to serve you :), please selct option from below
+1.Deposit
+2.Withdraw
+3.Check Balance
+option:2
+Please enter the amount to withdraw:100
+
+You should leave minimum balance of Rs:500/- in your account.
+Please check account banalnce to withdraw remaining amount.
+
+
+
+Would you like to do transaction? press (0/1):(No/Yes)1
+Happy to serve you :), please selct option from below
+1.Deposit
+2.Withdraw
+3.Check Balance
+option:1
+Please enter the amount to deposit:2000
+
+Deposit Success, your Balance is 2500/-
+
+
+
+Would you like to do transaction? press (0/1):(No/Yes)1
+Happy to serve you :), please selct option from below
+1.Deposit
+2.Withdraw
+3.Check Balance
+option:2
+Please enter the amount to withdraw:2500
+
+You should leave minimum balance of Rs:500/- in your account.
+Please check account banalnce to withdraw remaining amount.
+
+
+
+Would you like to do transaction? press (0/1):(No/Yes)1
+Happy to serve you :), please selct option from below
+1.Deposit
+2.Withdraw
+3.Check Balance
+option:2
+Please enter the amount to withdraw:1900
+
+
+Withdrawl of Rs:1900/- is success
+
+Your Balance is 600
+
+
+
+Would you like to do transaction? press (0/1):(No/Yes)1
+Happy to serve you :), please selct option from below
+1.Deposit
+2.Withdraw
+3.Check Balance
+option:2
+Please enter the amount to withdraw:101
+
+You should leave minimum balance of Rs:500/- in your account.
+Please check account banalnce to withdraw remaining amount.
+
+
+
+Would you like to do transaction? press (0/1):(No/Yes)1
+Happy to serve you :), please selct option from below
+1.Deposit
+2.Withdraw
+3.Check Balance
+option:2
+Please enter the amount to withdraw:100
+
+
+Withdrawl of Rs:100/- is success
+
+Your Balance is 500
+
+
+
+Would you like to do transaction? press (0/1):(No/Yes)0
+
+
+Thank you so much
+
+
+PS C:\Workspace\PG_AI_ML\Python_Pgms\26_01\HelloWorld>
